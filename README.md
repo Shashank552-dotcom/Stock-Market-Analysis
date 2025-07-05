@@ -1,27 +1,25 @@
-# Stock-Market-Analysis
-Stock price trend analysis of Apple, Google, Netflix &amp; Microsoft using Excel, SQL, and Tableau.
 # 📈 Stock Market Analysis
 
-This project involves analyzing the historical stock data of four major companies — **Apple (AAPL)**, **Microsoft (MSFT)**, **Netflix (NFLX)**, and **Google (GOOGL)** — using **Excel**, **SQL**, and **Tableau**. The goal is to explore price trends, compare performance, and generate investment-friendly visualizations.
+This project analyzes historical stock data for **Apple (AAPL)**, **Microsoft (MSFT)**, **Netflix (NFLX)**, and **Google (GOOGL)** using **Excel**, **SQL**, and **Tableau**. It uncovers patterns in price trends, volatility, and trading volumes through interactive visualizations.
 
 ---
 
 ## 🎯 Objectives
 
-- Clean and organize stock market data for multiple companies  
-- Analyze stock price trends over time (Open, Close, Volume, etc.)  
-- Compare company performance side-by-side using KPIs  
-- Build an interactive dashboard to visualize the analysis
+- Organize and clean daily stock data from multiple companies  
+- Identify short-term and long-term trends in closing prices and volumes  
+- Compare price movements across companies  
+- Build an interactive Tableau dashboard for intuitive analysis  
 
 ---
 
 ## 🧰 Tools & Technologies
 
-| Tool        | Purpose                            |
-|-------------|------------------------------------|
-| **Excel**   | Data cleaning and preprocessing     |
-| **SQL**     | Querying, aggregations, and joins   |
-| **Tableau** | Interactive dashboard and visuals   |
+| Tool        | Purpose                                  |
+|-------------|------------------------------------------|
+| **Excel**   | Data cleaning, formatting, and merging    |
+| **SQL**     | Data querying, time-based filtering       |
+| **Tableau** | Visual storytelling and dashboard design  |
 
 ---
 
@@ -33,10 +31,10 @@ This project involves analyzing the historical stock data of four major companie
 
 ## 🔍 Key Insights
 
-- 📉 Netflix showed the highest volatility across quarters  
-- 📈 Apple and Microsoft showed the most consistent growth  
-- 🔄 Volume spikes correlated with earnings and announcements  
-- 🧭 Google’s price trends closely tracked with market indices
+- 📉 **Netflix** displayed the highest volatility, especially during Q1 and Q4  
+- 📈 **Apple** and **Microsoft** showed consistent growth over the observed period  
+- 📊 **Volume spikes** were often linked to major announcements or earnings  
+- 🧭 **Google's stock trend** closely tracked broader market indices  
 
 ---
 
@@ -44,9 +42,9 @@ This project involves analyzing the historical stock data of four major companie
 
 Stock-Market-Analysis/
 │
-├── Excel/ # Cleaned Excel datasets per company
-├── SQL_Scripts/ # SQL queries for trend and summary metrics
-├── Tableau/ # Final dashboard (.twbx file)
+├── Excel/ # Cleaned stock datasets
+├── SQL_Scripts/ # SQL queries for analysis
+├── Tableau/ # .twbx Tableau file
 ├── stock_market_dashboard_preview.png # Dashboard screenshot
 └── README.md # Project documentation
 
@@ -64,4 +62,4 @@ Edit
 
 ---
 
-> ⭐ *Feel free to explore, star the repo, or connect for feedback or collaboratio
+> ⭐ *Feel free to star this repo or connect with me for collaboration and feedback!

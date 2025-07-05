@@ -37,6 +37,7 @@ This project analyzes historical stock data for **Apple (AAPL)**, **Microsoft (M
 ### 📋 Excel Pivot Analysis
 ![Excel Pivot Charts](Excell_pivot_charts.png)
 
+<!--
 ## 📂 Project Presentation
 
 📽️ A downloadable PowerPoint presentation summarizing all key insights and visualizations:
@@ -44,6 +45,8 @@ This project analyzes historical stock data for **Apple (AAPL)**, **Microsoft (M
 ➡️ [Download Supply Chain Dashboard Analysis PPTX](Supply_chain_Dashboard_Analysis.pptx)
 
 ➡️ [Download Supply Chain Dashboard Analysis PPTX](Supply%20chain%20Dashboard%20Analysis.pptx)
+-->
+
 
 
 

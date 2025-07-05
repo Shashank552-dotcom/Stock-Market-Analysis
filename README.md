@@ -25,7 +25,7 @@ This project analyzes historical stock data for **Apple (AAPL)**, **Microsoft (M
 
 ## 📊 Dashboard Preview
 
-![Stock Market Dashboard](stock_market_dashboard_preview.png)
+![Dashboard](dashboard_preview.png)
 
 ---
 

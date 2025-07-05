@@ -37,6 +37,15 @@ This project analyzes historical stock data for **Apple (AAPL)**, **Microsoft (M
 ### 📋 Excel Pivot Analysis
 ![Excel Pivot Charts](Excell_pivot_charts.png)
 
+---
+
+## 📂 Presentation File
+
+📽️ A PowerPoint summary of the Supply Chain Dashboard is available for download:
+
+➡️ [Download Supply Chain Dashboard Analysis PPTX](Supply_chain_Dashboard_Analysis.pptx)
+
+
 
 ---
 

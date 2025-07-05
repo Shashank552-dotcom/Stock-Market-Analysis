@@ -26,6 +26,17 @@ This project analyzes historical stock data for **Apple (AAPL)**, **Microsoft (M
 ## 📊 Dashboard Preview
 
 ![Dashboard](dashboard_preview.png)
+## 📸 Additional Visuals & Insights
+
+### 📊 Daily Return Chart
+![Daily Return](Dailyreturn.png)
+
+### 📈 Moving Average Comparison
+![Moving Average](Moving_average.png)
+
+### 📋 Excel Pivot Analysis
+![Excel Pivot Charts](Excell_pivot_charts.png)
+
 
 ---
 

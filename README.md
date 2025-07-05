@@ -44,6 +44,16 @@ This project analyzes historical stock data for **Apple (AAPL)**, **Microsoft (M
 📽️ A PowerPoint summary of the Supply Chain Dashboard is available for download:
 
 ➡️ [Download Supply Chain Dashboard Analysis PPTX](Supply_chain_Dashboard_Analysis.pptx)
+<!--
+## 📂 Project Presentation
+
+📽️ A downloadable PowerPoint presentation summarizing all key insights and visualizations:
+
+➡️ [Download Supply Chain Dashboard Analysis PPTX](Supply_chain_Dashboard_Analysis.pptx)
+
+➡️ [Download Supply Chain Dashboard Analysis PPTX](Supply%20chain%20Dashboard%20Analysis.pptx)
+-->
+
 
 
 
